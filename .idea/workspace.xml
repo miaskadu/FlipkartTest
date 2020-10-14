@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa400c4e-d742-4b56-afb1-a4b6070738cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iMQBkSORl5Iy94Kxjca1uWvrWH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ClearTripTesting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Flipkart/testng.xml">
+    <configuration name="C:/ClearTripTesting/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipkartTesting" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Flipkart/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Flipkart" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlipkartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipkartTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FlipkartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlipkartTest.getIphoneData (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipkartTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FlipkartTest" />
+      <option name="METHOD_NAME" value="getIphoneData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlipkartTest.getIphoneData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FlipkartTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FlipkartTest" />
+      <option name="METHOD_NAME" value="getIphoneData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/ClearTripTesting/testng.xml" />
+      <item itemvalue="TestNG.FlipkartTest.getIphoneData" />
+      <item itemvalue="TestNG.FlipkartTest.getIphoneData (1)" />
+      <item itemvalue="TestNG.FlipkartTest" />
+      <item itemvalue="TestNG.C:/Flipkart/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Flipkart/testng.xml" />
+        <item itemvalue="TestNG.FlipkartTest.getIphoneData" />
+        <item itemvalue="TestNG.FlipkartTest" />
+        <item itemvalue="TestNG.C:/ClearTripTesting/testng.xml" />
+        <item itemvalue="TestNG.FlipkartTest.getIphoneData (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa400c4e-d742-4b56-afb1-a4b6070738cb" name="Default Changelist" comment="" />
+      <created>1601714847034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601714847034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="79" key="#Project_Structure" timestamp="1602657622158">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="79" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1602657622158" />
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601739545712">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1601739545712" />
+    <state x="523" y="347" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602657538550">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="523" y="347" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1602657538550" />
+    <state x="571" y="307" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602657540038">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="571" y="307" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1602657540038" />
+    <state x="522" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602705112355">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="522" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1602705112355" />
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602705277754">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602705277754" />
+    <state width="1493" height="360" key="GridCell.Tab.0.bottom" timestamp="1602707434921">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602707434921" />
+    <state width="1493" height="360" key="GridCell.Tab.0.center" timestamp="1602707434921">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602707434921" />
+    <state width="1493" height="360" key="GridCell.Tab.0.left" timestamp="1602707434921">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602707434921" />
+    <state width="1493" height="360" key="GridCell.Tab.0.right" timestamp="1602707434921">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="360" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602707434921" />
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1602619305102">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602619305102" />
+    <state width="1493" height="256" key="GridCell.Tab.1.center" timestamp="1602619305102">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1602619305102" />
+    <state width="1493" height="256" key="GridCell.Tab.1.left" timestamp="1602619305102">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1602619305102" />
+    <state width="1493" height="256" key="GridCell.Tab.1.right" timestamp="1602619305102">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1602619305102" />
+    <state x="279" y="63" key="SettingsEditor" timestamp="1601739019326">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="279" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601739019326" />
+    <state x="477" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1602707483238">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="477" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1602707483238" />
+    <state x="416" y="35" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601717240971">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="416" y="35" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1601717240971" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1601721433815">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1601721433815" />
+  </component>
+</project>
